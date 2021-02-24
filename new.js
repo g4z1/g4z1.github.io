@@ -91,12 +91,12 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
+	"https://g4z1.github.io/Qt4TnY.jpg",
 	"https://g4z1.github.io/1.jpeg",
 	"https://g4z1.github.io/2.jpeg",
 	"https://g4z1.github.io/3.jpg",
 	"https://g4z1.github.io/4.jpg",
-	"https://g4z1.github.io/P0NJod.jpg",
-	"https://g4z1.github.io/Qt4TnY.jpg"
+	"https://g4z1.github.io/P0NJod.jpg"
 ], {duration: 7000, fade: 500});
 
 });
