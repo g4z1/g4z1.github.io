@@ -91,20 +91,12 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://interforceayt.github.io/force/son-min.png "
-, "https://interforceayt.github.io/force/HZjuj8.jpg"
-, "https://interforceayt.github.io/force/1_edited.jpg "
-, "https://interforceayt.github.io/force/Qt4TnY.jpg "
-, "https://interforceayt.github.io/force/cerceveimza.jpg "
-, "https://interforceayt.github.io/force/lE7Gpr.png "
-, "https://interforceayt.github.io/force/S026Ap.jpg "
-, "https://interforceayt.github.io/force/2JMpAE.jpg "
-, "https://interforceayt.github.io/force/P0NJod.jpg "
-, "https://interforceayt.github.io/force/3.jpg "
-, "https://interforceayt.github.io/force/6.jpg "
-, "https://interforceayt.github.io/force/7.jpg "
-, "https://interforceayt.github.io/force/1.jpg "
-
+	"https://g4z1.github.io/1.jpeg",
+	"https://g4z1.github.io/2.jpeg",
+	"https://g4z1.github.io/3.jpg",
+	"https://g4z1.github.io/4.jpg",
+	"https://g4z1.github.io/P0NJod.jpg",
+	"https://g4z1.github.io/Qt4TnY.jpg"
 ], {duration: 7000, fade: 500});
 
 });
